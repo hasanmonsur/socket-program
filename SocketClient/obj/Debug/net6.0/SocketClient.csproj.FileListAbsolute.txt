@@ -1,0 +1,5 @@
+D:\blockchain\SocketAPI\SocketClient\obj\Debug\net6.0\SocketClient.csproj.AssemblyReference.cache
+D:\blockchain\SocketAPI\SocketClient\obj\Debug\net6.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\blockchain\SocketAPI\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfoInputs.cache
+D:\blockchain\SocketAPI\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfo.cs
+D:\blockchain\SocketAPI\SocketClient\obj\Debug\net6.0\SocketClient.csproj.CoreCompileInputs.cache
